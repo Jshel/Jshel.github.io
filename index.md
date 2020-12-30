@@ -1,8 +1,8 @@
-##Name:
+<h2>Name:
 
 Jennifer Sheldon
 
-##Publications:
+<h2>Publications:
 
 Zhixin Pan, Jennifer Sheldon, Chamika Sudusinghe, Subodha Charles and Prabhat Mishra, Hardware-Assisted Malware Detection using Machine Learning, Special Session on Hardware-based Malware Detectors in Design Automation and Test in Europe (DATE), Grenoble, France, February 1-5, 2021.
 
