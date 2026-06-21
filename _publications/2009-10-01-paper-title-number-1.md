@@ -1,7 +1,7 @@
 ---
 title: "RepliGuard: Policy-Driven Replica Management Framework for Protecting against Acoustic Attacks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/RepliGuard
 excerpt: 'With the rapid expansion of data center infrastructure driven by the AI boom and the growing energy demands, companies have
 begun deploying underwater data centers, leveraging water’s natural cooling properties. While promising in terms of sustainability
